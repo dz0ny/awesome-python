@@ -191,15 +191,14 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries for manipulating images.*
 
 * [pillow](http://pillow.readthedocs.org/) - Pillow is the **friendly** PIL fork. PIL is the [Python Imaging Library](http://www.pythonware.com/products/pil/).
-* [wand](https://github.com/dahlia/wand) - Python bindings for [MagickWand](http://www.imagemagick.org/script/magick-wand.php), C API for ImageMagick.
 * [thumbor](https://github.com/thumbor/thumbor) - A smart imaging service. It enables on-demand crop, resizing and flipping of images.
 * [imgSeek](http://www.imgseek.net/) - A project for searching a collection of images using visual similarity.
 * [python-qrcode](https://github.com/lincolnloop/python-qrcode) - A pure Python QR Code generator.
-* [pyBarcode](https://pythonhosted.org/pyBarcode/) - Create barcodes in python without needing PIL.
 * [pygram](https://github.com/ajkumar25/pygram) - Instagram-like image filters.
 * [Quads](https://github.com/fogleman/Quads) - Computer art based on quadtrees.
 * [nude.py](https://github.com/hhatto/nude.py) - Nudity detection.
-* [scikit-image](http://scikit-image.org/) - A Python library for (scientific) image processing.
+* [wand](https://github.com/dahlia/wand) - Python bindings for MagickWand, C API for ImageMagick.
+* [pyBarcode](https://pythonhosted.org/pyBarcode/) - Create barcodes in python without needing PIL.
 
 ## Audio
 
@@ -213,6 +212,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [audioread](https://github.com/sampsyo/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
 * [mutagen](https://code.google.com/p/mutagen/) - A Python module to handle audio metadata.
 * [tinytag](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
+* [mopidy](https://github.com/mopidy/mopidy) - Extensible multi source music server.
 
 ## Video
 
@@ -220,7 +220,6 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 * [moviepy](http://zulko.github.io/moviepy/) - A module for script-based movie editing with many formats, including animated GIFs.
 * [shorten.tv](http://www.shorten.tv/) - Video summarization.
-* [scikit-video](https://github.com/aizvorski/scikit-video) - Video processing routines for SciPy.
 
 ## Geolocation
 
@@ -604,9 +603,9 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [ipdb](https://pypi.python.org/pypi/ipdb) - IPython-enabled pdb.
 * [winpdb](http://winpdb.org/) - A Platform Independent Python Debugger with GUI.
 * [pyringe](https://github.com/google/pyringe) - Debugger capable of attaching to and injecting code into Python processes.
-* [memory_profiler](https://github.com/fabianp/memory_profiler) - Monitor Memory usage of Python code.
 * [django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar) - Display various debug information about the current request/response.
 * [django-devserver](https://github.com/dcramer/django-devserver) - A drop-in replacement for Django's runserver.
+* [memory_profiler](https://github.com/fabianp/memory_profiler) - Monitor Memory usage of Python code.
 
 ## Science and Data Analysis
 
